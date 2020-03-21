@@ -29,7 +29,7 @@ colors = [  [255, 0, 0],
 // what to change:
 // cell-background
 // font
-changeWhat = "cell-background";
+changeWhat = "font";
 
 settings = false; // not yet working as it should
 
